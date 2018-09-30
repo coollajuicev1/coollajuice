@@ -77,4 +77,8 @@
     }
   });
 
+  //Initializes carousel;
+
+  $('.carousel1').carousel();
+
 })(jQuery); // End of use strict
